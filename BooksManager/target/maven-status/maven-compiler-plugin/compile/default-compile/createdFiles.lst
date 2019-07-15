@@ -1,0 +1,6 @@
+com\franca\controller\BookController.class
+CriaTabela.class
+com\franca\bean\BookBean.class
+com\franca\dao\BookDao.class
+com\franca\model\Book.class
+com\franca\dao\ConnectionFactory.class
